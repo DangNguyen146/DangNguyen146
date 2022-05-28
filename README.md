@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dang Nguyen</h1>
 <h3 align="center">A passionate full-stack developer and a Security Engineer from VietNam</h3>
 
-- 🔭 I'm currently a student in [Ho Chi Minh City University of Information Technology](uit.edu.vn)
+- 🔭 I'm currently a student in [Ho Chi Minh City University of Information Technology](https://www.uit.edu.vn/)
 
-- 👯 I am collaborating with [The Department Of Computer Networking And Communication](suctremmt.com)
+- 👯 I am collaborating with [The Department Of Computer Networking And Communication](https://suctremmt.com/)
 
-- 👨‍💻 All of my projects are available at [github.com/DangNguyen146](github.com/DangNguyen146)
+- 👨‍💻 All of my projects are available at [github.com/DangNguyen146](https://github.com/DangNguyen146)
 
 - 📸 I often share pictures on 500px [https://500px.com/p/blacksoniatm](https://500px.com/p/blacksoniatm)
 
