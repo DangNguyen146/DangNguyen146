@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently a student in [Ho Chi Minh City University of Information Technology](https://www.uit.edu.vn/)
 
-- 👯 I am collaborating with [The Department Of Computer Networking And Communication](https://suctremmt.com/)
+- 👯 I am collaborating with [The Department Of Computer Networking And Communication](https://nc.uit.edu.vn/)
 
 - 👨‍💻 All of my projects are available at [github.com/DangNguyen146](https://github.com/DangNguyen146)
 
