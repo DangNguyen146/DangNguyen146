@@ -5,7 +5,7 @@
 
 - 👯 I am collaborating with [The Department Of Computer Networking And Communication](https://nc.uit.edu.vn/)
 
-- 👨‍💻 All of my projects are available at [github.com/DangNguyen146](https://github.com/DangNguyen146)
+- 👨‍💻 All of my projects are available at [@DangNguyen146](https://github.com/DangNguyen146)
 
 - 📸 I often share pictures on 500px [https://500px.com/p/blacksoniatm](https://500px.com/p/blacksoniatm)
 
