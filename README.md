@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dang Nguyen</h1>
 <h3 align="center">A passionate Full-stack developer and a Security Engineer from VietNam</h3>
 
-- 🔭 I'm currently a student in [Ho Chi Minh City University of Information Technology](https://www.uit.edu.vn/)
+- 🔭 I'm currently a student in [Ho Chi Minh City University of Information Technology - VNUHCM](https://www.uit.edu.vn/)
 
 - 👯 I am collaborating with [The Department Of Computer Networking And Communication](https://nc.uit.edu.vn/)
 
