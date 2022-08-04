@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dang Nguyen</h1>
-<h3 align="center">A passionate full-stack developer and a Security Engineer from VietNam</h3>
+<h3 align="center">A passionate Full-stack developer and a Security Engineer from VietNam</h3>
 
 - 🔭 I'm currently a student in [Ho Chi Minh City University of Information Technology](https://www.uit.edu.vn/)
 
